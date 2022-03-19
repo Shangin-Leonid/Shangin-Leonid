@@ -1,4 +1,5 @@
-|<img src="https://github.com/Shangin-Leonid/Shangin-Leonid/blob/main/assets/Фото_осн.jpg?raw=true" alt="Image" width="350" height="350" style="display: block; margin: 1 auto" > | **:bust_in_silhouette: &nbsp; Шангин Леонид Викторович <br> <br> :underage: &nbsp; 18 лет <br> <br> :earth_africa: &nbsp; г. Люберцы, Московская обл., Россия <br> <br> :mortar_board: &nbsp; МГУ им. Ломоносова, механико-математичекий факультет** <br> <br> :necktie: &nbsp; Желаемая должность: **Junior backend разработчик/ стажёр**|
+<!---
+| <img src="https://github.com/Shangin-Leonid/Shangin-Leonid/blob/main/assets/Фото_осн.jpg?raw=true" alt="Image" width="350" height="350" style="display: block; margin: 1 auto" > | **:bust_in_silhouette: &nbsp; Шангин Леонид Викторович <br> <br> :underage: &nbsp; 18 лет <br> <br> :earth_africa: &nbsp; г. Люберцы, Московская обл., Россия <br> <br> :mortar_board: &nbsp; МГУ им. Ломоносова, механико-математичекий факультет** <br> <br> :necktie: &nbsp; Желаемая должность: **Junior backend разработчик/ стажёр**|
 |:----------------:|:---------|
 <br>
 
@@ -40,3 +41,4 @@
 ## :clipboard: Мои резюме также размещены здесь: <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![HH](https://img.shields.io/static/v1?label=&message=hh.ru&style=flat-square&logo=EMPTY&color=ff0000) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![LINKEDIN](https://img.shields.io/static/v1?label=&message=LinkedIn&style=social&logo=linkedin&color=8b0000) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![SJ](https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat-square&logo=EMPTY&color=228b22)
 <br>
+-->
