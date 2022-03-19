@@ -1,0 +1,112 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontSize": 19,
+
+    // COLORS
+    //===============================================================
+    "workbench.colorCustomizations":
+    {
+        "[Default Dark+]":
+        {
+            "editorRuler.foreground": "#fcf8fa21",
+            "editorLineNumber.activeForeground": "#ffffffff",
+
+            "editorBracketPairGuide.background1": "#7e7b785e",
+            "editorBracketPairGuide.background2": "#7e7b785e",
+            "editorBracketPairGuide.background3": "#7e7b785e",
+            "editorBracketPairGuide.background4": "#7e7b785e",
+            "editorBracketPairGuide.background5": "#7e7b785e",
+            "editorBracketPairGuide.background6": "#7e7b785e",
+            "editorBracketPairGuide.activeBackground1": "#7e7b785e",
+            "editorBracketPairGuide.activeBackground2": "#ffffffce",
+            "editorBracketPairGuide.activeBackground3": "#ffffffce",
+            "editorBracketPairGuide.activeBackground4": "#ffffffce",
+            "editorBracketPairGuide.activeBackground5": "#ffffffce",
+            "editorBracketPairGuide.activeBackground6": "#ffffffce",
+            //"editorLineNumber.foreground": "#8c9196ab",
+            //"editorLineNumber.activeForeground": "#eeff00",
+        },
+
+    },
+    "editor.tokenColorCustomizations":
+    {
+        "[Default Dark+]":
+        {
+            //"comments": "#ff0000"
+        }
+    },
+    //===============================================================
+
+
+
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingDelete": "always",
+    "editor.autoIndent": "advanced",
+    "editor.detectIndentation": false,
+    "editor.dragAndDrop": false,
+    "editor.fastScrollSensitivity": 3,
+    "editor.guides.bracketPairs" : true,
+    //"editor.guides.highlightActiveIndentation" : true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.hover.delay": 750,
+    "editor.hover.above": false,
+    "editor.mouseWheelScrollSensitivity": 1.2,
+    "editor.padding.top": 8,
+    "editor.padding.bottom": 8,
+    "editor.renderLineHighlight": "gutter",
+    "editor.roundedSelection": false,
+    "editor.rulers": [120],
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "editor.scrollbar.verticalScrollbarSize": 15,
+    "editor.scrollBeyondLastLine": false,
+    "editor.showFoldingControls": "always",
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "editor.wordWrapColumn": 120,
+    "editor.find.cursorMoveOnType": false,
+    "editor.minimap.enabled": false,
+    "editor.minimap.scale": 3,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggest.showStatusBar": true,
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 20,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.wordBasedSuggestionsMode": "currentDocument",
+    "files.hotExit": "off",
+    "files.insertFinalNewline": true,
+    "files.restoreUndoStack": false,
+    "files.simpleDialog.enable": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.list.fastScrollSensitivity": 3,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.list.smoothScrolling": true,
+    "workbench.panel.opensMaximized": "always",
+    "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
+    "workbench.tree.indent": 30,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.mouseBackForwardToNavigate": false,
+    "workbench.editor.openPositioning": "last",
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "workbench.editor.restoreViewState": false,
+    "workbench.editor.wrapTabs": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideTabs": false,
+    "zenMode.restore": false,
+    "window.openFilesInNewWindow": "on",
+    "explorer.compactFolders": false,
+    "explorer.incrementalNaming": "smart",
+    "search.showLineNumbers": true,
+    "search.sortOrder": "type",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.confirmOnExit": "always",
+    "debug.console.fontSize": 16,
+    "debug.inlineValues": true,
+    "debug.showBreakpointsInOverviewRuler": true,
+    "debug.terminal.clearBeforeReusing": true,
+}
