@@ -1,3 +1,4 @@
+<!---
 |                |           |
 |:----------------:|:---------|
 |<img src="https://github.com/Shangin-Leonid/Shangin-Leonid/blob/main/assets/Фото_осн.jpg?raw=true" alt="Image" width="500" height="500" style="display: block; margin: 1 auto" > | **:bust_in_silhouette: Шангин Леонид Викторович <br> :underage: 18 лет <br> :earth_africa: г. Люберцы, Московская обл., Россия <br> :mortar_board: МГУ им. Ломоносова, механико-математичекий факультет <br> :necktie: Желаемая должность Junior backend разработчик/ стажёр**|
@@ -41,3 +42,4 @@
 ### :clipboard: Мои резюме также размещены здесь: <br>
 $~~~$![HH](https://img.shields.io/static/v1?label=&message=hh.ru&style=flat-square&logo=EMPTY&color=ff0000) $~~~$![LINKEDIN](https://img.shields.io/static/v1?label=&message=LinkedIn&style=social&logo=linkedin&color=8b0000) $~~~$![SJ](https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat-square&logo=EMPTY&color=228b22)
 <br>
+-->
