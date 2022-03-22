@@ -109,4 +109,44 @@
     "debug.inlineValues": true,
     "debug.showBreakpointsInOverviewRuler": true,
     "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Cygwin": {
+            "path": "C:\\cygwin64\\bin\\bash.exe",
+            "args": [
+                "--login"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Cygwin",
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.environmentChangesIndicator": "on",
+    "terminal.integrated.fastScrollSensitivity": 3,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": 1,
+    "terminal.integrated.mouseWheelScrollSensitivity": 1.2,
+    "terminal.integrated.persistentSessionScrollback": 5,
+    "terminal.integrated.scrollback": 1000,
+    "terminal.integrated.shellIntegration.history": 20,
+    //"terminal.integrated.shellIntegration.decorationsEnabled": true,
+    "terminal.integrated.tabs.enabled": false,
 }
