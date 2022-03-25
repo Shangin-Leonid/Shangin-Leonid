@@ -39,7 +39,7 @@
 
 
 
-    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingBrackets": "beforeWhitespace",
     "editor.autoClosingDelete": "always",
     "editor.autoIndent": "advanced",
     "editor.detectIndentation": false,
