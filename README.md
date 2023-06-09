@@ -14,13 +14,13 @@
 <br>
 <h1> <Big> &nbsp &nbsp Основная информация: </Big> </h1>
 <Big>
-    <h3> &nbsp &nbsp &#128100 &nbsp Шангин Леонид </h3> <br>
-    <h3> &nbsp &nbsp &#128286 &nbsp 20 лет </h3> <br>
-    <h3> &nbsp &nbsp &#127757 &nbsp г.Люберцы, Московская обл., Россия </h3> <br>
-    <h3> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: Junior C++ разработчик </h3> <br>
+    <h3> &nbsp &nbsp &#128100 &nbsp Шангин Леонид </h3>
+    <h3> &nbsp &nbsp &#128286 &nbsp 20 лет </h3>
+    <h3> &nbsp &nbsp :ru:     &nbsp г.Люберцы, Московская обл., Россия </h3>
+    <h3> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: Junior C++ разработчик </h3>
 </Big>
 </p>
-
+<br>
 
 <h2> <big> &#128222 &nbsp Контакты: </big> </h2> <br>
 <p>
@@ -32,7 +32,7 @@
 <body>
 <p><big>
     Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
-    Телефон:  &nbsp +7 (926) 996-94-46 <br>
+    <!-- Телефон:  &nbsp  <br> -->
     Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
     Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a> <br>
 </big></p>
@@ -75,7 +75,7 @@
     <li> Более 2 лет программирования </li>
     <li> Учебные проекты на языках C++ и C</li>
     <li> Огромное количество учебных программ на языках C++, C, Python, Wolfram Mathematica </li>
-    <li> Отладка и рефакторинг своего и чужого кода </li>
+    <li> Отладка и рефакторинг как своего, так и чужого кода </li>
 </big></ul>
 <br>
 
