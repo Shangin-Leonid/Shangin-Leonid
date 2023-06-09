@@ -2,14 +2,14 @@
 <br>
 <h2> <Big> &nbsp &nbsp Основная информация: </Big> </h2>
 <big>
-    <h3> <big> 
+    <h4> <big> 
          &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
          &nbsp &nbsp &#128286 &nbsp 20 лет <br>
          &nbsp &nbsp :ru:     &nbsp г. Люберцы, Московская обл., Россия <br>
          &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Junior C++ разработчик
-    </big> </h3>
+    </big> <br> </h4>
 </big>
-</p>
+</p> 
 
 
 
@@ -21,12 +21,12 @@
 </p>
 
 <body>
-<p> <big><big>
+<p> <h4> <big>
     Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
     <!-- Телефон:  &nbsp  <br> -->
     Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
-    Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a> <br> <br>
-</big></big> </p>
+    Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a>
+</big> <br> </h4> </p>
 </body>
 
 
@@ -34,7 +34,7 @@
 <h2> <big> &#127891 &nbsp Образование: </big> </h2>
 <ul><Big>
     <li> МГУ им. Ломоносова, механико-математический факультет, отделение математики, 2027 г. (2 курс) </li>
-    <li> Университетский лицей №1511 при НИЯУ МИФИ, 2021 г. </li> <br>
+    <li> Университетский лицей №1511 при НИЯУ МИФИ, 2021 г. </li> <br> <br> <br>
 </Big></ul>
 
 
