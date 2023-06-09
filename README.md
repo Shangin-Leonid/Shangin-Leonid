@@ -1,5 +1,4 @@
 <p>
-<br>
 <h2> <Big> &nbsp &nbsp Основная информация: </Big> </h2>
 <big>
     <h4> <big> 
