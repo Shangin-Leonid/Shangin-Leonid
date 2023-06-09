@@ -1,14 +1,17 @@
 <p>
 <br>
-<h1> <Big> &nbsp &nbsp Основная информация: </Big> </h1>
+<h2> <Big> &nbsp &nbsp Основная информация: </Big> </h2>
 <big>
-    <h3> &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид </h3>
-    <h3> &nbsp &nbsp &#128286 &nbsp 20 лет </h3>
-    <h3> &nbsp &nbsp :ru:     &nbsp г.Люберцы, Московская обл., Россия </h3>
-    <h3> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Junior C++ разработчик </h3>
+    <h3> <big> 
+         &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
+         &nbsp &nbsp &#128286 &nbsp 20 лет <br>
+         &nbsp &nbsp :ru:     &nbsp г. Люберцы, Московская обл., Россия <br>
+         &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Junior C++ разработчик
+    </big> </h3>
 </big>
 </p>
-<br>
+
+
 
 <h2> <big> &#128222 &nbsp Контакты: </big> </h2>
 <p>
