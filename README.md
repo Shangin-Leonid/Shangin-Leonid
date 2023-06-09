@@ -18,12 +18,12 @@
 </p>
 
 <body>
-<p> <Big>
+<p> <big><big>
     Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
     <!-- Телефон:  &nbsp  <br> -->
     Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
     Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a> <br> <br>
-</Big> </p>
+</big></big> </p>
 </body>
 
 
