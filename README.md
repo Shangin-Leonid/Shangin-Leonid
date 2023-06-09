@@ -71,7 +71,7 @@
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=custom_container_lib)](https://github.com/Shangin-Leonid/custom_container_lib) -->
 
-<br>
+
 
 <h2> <big> &#9881 &nbsp Технологии: </big> </h2>
 <p>
