@@ -67,7 +67,7 @@
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=distance_between_polygons)](https://github.com/Shangin-Leonid/distance_between_polygons)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=MyOffice_code_review_task)](https://github.com/Shangin-Leonid/MyOffice_code_review_task)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=custom_container_lib)](https://github.com/Shangin-Leonid/custom_container_lib) -->
 
