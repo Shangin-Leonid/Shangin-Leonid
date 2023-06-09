@@ -1,15 +1,3 @@
-<!-- <body>
-<p><img  alt="Avatar" src="./avatar.jpg" width="512" height="384" align="left" hspace="10" vspace="8" border="1"/>
-<br><br><br>
-<Big>
-    <h2> &nbsp &nbsp &#128100 &nbsp Шангин Леонид </h2> <br>
-    <h2> &nbsp &nbsp &#128286 &nbsp 20 лет </h2> <br>
-    <h2> &nbsp &nbsp &#127757 &nbsp г.Люберцы, Московская обл., Россия </h2> <br>
-    <h2> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: Junior C++ разработчик </h2> <br>
-</Big>
-</p>
-</body> -->
-
 <p>
 <br>
 <h1> <Big> &nbsp &nbsp Основная информация: </Big> </h1>
@@ -187,3 +175,18 @@
     &#127757 г.Люберцы, Московская обл., Россия <br>
     &#128084 Ожидаемая должность: Junior C++ разработчик <br>
 </p> -->
+
+
+
+
+<!-- <body>
+<p><img  alt="Avatar" src="./avatar.jpg" width="512" height="384" align="left" hspace="10" vspace="8" border="1"/>
+<br><br><br>
+<Big>
+    <h2> &nbsp &nbsp &#128100 &nbsp Шангин Леонид </h2> <br>
+    <h2> &nbsp &nbsp &#128286 &nbsp 20 лет </h2> <br>
+    <h2> &nbsp &nbsp &#127757 &nbsp г.Люберцы, Московская обл., Россия </h2> <br>
+    <h2> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: Junior C++ разработчик </h2> <br>
+</Big>
+</p>
+</body> -->
