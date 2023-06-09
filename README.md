@@ -2,7 +2,7 @@
 <br>
 <h1> <Big> &nbsp &nbsp Основная информация: </Big> </h1>
 <big>
-    <h3> &nbsp &nbsp &#128100 &nbsp Шангин Леонид </h3>
+    <h3> &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид </h3>
     <h3> &nbsp &nbsp &#128286 &nbsp 20 лет </h3>
     <h3> &nbsp &nbsp :ru:     &nbsp г.Люберцы, Московская обл., Россия </h3>
     <h3> &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Junior C++ разработчик </h3>
@@ -118,13 +118,16 @@
 <ul><Big>
     <li> "Язык программирования Си", Б. Керниган, Д. Ритчи </li>
     <li> "C++ Primer Plus", Stephen Prata, 6th edition (ENG version) </li>
-    <li> "Философия C++. Введение в стандартный C++", Брюс Эккель </li>
+    <li> "Философия C++. Введение в стандартный C++" (в 2 томах), Брюс Эккель </li>
     <li> "C++ Templates: The Complete Guide", David Vandevoorde, Nicolai Josuttis, Douglas Gregor </li>
     <li> "Совершенный код", Стив Макконнелл </li>
+    <li> "Основы языка SQL", Моргунов </li>
     <li> cppreference.com </li>
     <li> Курс программирования на C++ (записи лекций), Илья Мещерин, МФТИ </li>
-    <li> Курс программирования и ЭВМ, Д.В. Валединский и С.А. Афонин, мехмат МГУ </li>
-    <li> "Основы языка SQL", Моргунов </li>
+    <li> C++ базовый курс (записи лекций), Константин Владимиров, МФТИ, 2021-2022 </li>
+    <li> C++ магистерский курс (записи лекций), Константин Владимиров, МФТИ, 2022-2023 </li>
+    <li> прочее </li>
+    
 </Big></ul>
 
 <a href="https://leetcode-cn.com/u/blackcater/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" /></a>
@@ -137,7 +140,8 @@
     <a href="ССЫЛКА"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
     <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a>
     <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a>
-    <a href="ССЫЛКА"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a> <br>
+    <a href="ССЫЛКА"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a>
+    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a> <br>
 </p>
 
 
