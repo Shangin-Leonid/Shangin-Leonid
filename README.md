@@ -139,11 +139,11 @@
 
 <h2> <big> &#128270 &nbsp Резюме размещены здесь: </big> </h2>
 <p>
-    <a href="ССЫЛКА"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
-    <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a>
+    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a>
+    <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
     <a href="https://career.habr.com/shangin_leonid"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a>
-    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a> <br>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a> <br>
+    <!-- <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a> -->
 </p>
 
 
@@ -157,7 +157,7 @@
     &#127956 &nbsp Альпинизм <br>
     &#127952 &nbsp Волейбол <br>
     &#128214 &nbsp Русская классическая литература, поэзия <br>
-    &#127966 &nbsp Живопись <br>
+    <!-- &#127966 &nbsp Живопись <br> -->
     &#127931 &nbsp Музыка <br>
 </Big></ul>
 <br><br>
