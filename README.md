@@ -142,7 +142,7 @@
     <a href="ССЫЛКА"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
     <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a>
     <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a>
-    <a href="ССЫЛКА"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a>
+    <a href="https://career.habr.com/shangin_leonid"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a>
     <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a> <br>
 </p>
 
