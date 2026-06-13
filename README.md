@@ -3,9 +3,9 @@
 <big>
     <h4> <big> 
          &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
-         &nbsp &nbsp &#128286 &nbsp 20 лет <br>
-         &nbsp &nbsp :ru:     &nbsp г. Люберцы, Московская обл., Россия <br>
-         &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Junior C++ разработчик
+         &nbsp &nbsp &#128286 &nbsp 23 года <br>
+         &nbsp &nbsp :ru:     &nbsp г. Москва, Россия <br>
+         &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Middle Golang разработчик
     </big> <br> </h4>
 </big>
 </p> 
@@ -40,6 +40,7 @@
 
 <h2> <big> &#128069 &nbsp Языки: </big> </h2>
 <p>
+    <img alt="Golang"      src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB" height=33>
     <img alt="CPP"      src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=0000cd" height=33>
     <img alt="C"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=dc143c" height=33>
     <img alt="Make"     src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16" height=33>
