@@ -5,7 +5,7 @@
          &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
          &nbsp &#128286 &nbsp 23 года <br>
          &nbsp :ru:     &nbsp г. Москва, Россия <br>
-         &nbsp &#128084 &nbsp Golang разработчик
+         &nbsp &#128084 &nbsp Golang backend разработчик
     </big> <br> </h4>
 </big>
 </p> 
