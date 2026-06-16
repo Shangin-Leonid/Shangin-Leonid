@@ -81,9 +81,9 @@
     <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16"  width="110" height="30"> &nbsp
     <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23228B22.svg?style=flat&logo=cmake&logoColor=white"       width="100" height="30"> &nbsp 
     <br> &nbsp &nbsp
-    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"  width="92" height="30"> &nbsp &nbsp
+    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"  width="85" height="30"> &nbsp &nbsp
     <img alt="Algos"      src="https://img.shields.io/badge/Algorithms_and_data_structeres-DB7093.svg?"                   width="260" height="30"> &nbsp &nbsp
-    <img alt="CS"      src="https://img.shields.io/badge/Computer_science-F4A460.svg?"                                    width="200" height="30"> &nbsp
+    <img alt="CS"      src="https://img.shields.io/badge/Computer_science-F4A460.svg?"                                    width="150" height="30"> &nbsp
 </p>
 <ul><Big>
     <li> Go / Golang: твёрдое знание языка и понимание его философии, concurrency и паттерны, оптимизации, runtime (GC, планировщик, аллокатор), стандартная библиотека, тестирование (unit, integration, mock), линтеры </li>
