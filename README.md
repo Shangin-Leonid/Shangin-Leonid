@@ -65,20 +65,23 @@
 
 <h3> <big> &#128300 &nbsp &#129514 &nbsp &#128421 &nbsp Языки, технологии  и ключевые навыки: </big> </h3>
 <p>
-    <img alt="Golang"     src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB"        width="100" height="30">
-    <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=0000cd"     width="110" height="30">
-    <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=dc143c"             width="110" height="30">
-    <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-4169e1.svg?logo=database&logoColor=white"           width="70" height="30">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"     width="120" height="30">
-    <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"              width="85" height="30">
-    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka"                         width="135" height="30">
-    <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"                        width="65" height="30">
-    <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000"          width="95" height="30">
-    <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16"         width="110" height="30">
-    <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white"              width="100" height="30">
-    <img alt="Docker"     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"            width="100" height="30">
-    <img alt="Algos"      src="https://img.shields.io/badge/Algorithms_and_data_structeres-green.svg?"                              width="60" height="30">
-    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"            width="92" height="30">
+    <img alt="Golang"     src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB"        width="130" height="30"> &nbsp &nbsp
+    <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=90ee90"     width="110" height="30"> &nbsp &nbsp
+    <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=0000cd"             width="110" height="30"> &nbsp &nbsp 
+    <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-FFFACD.svg?logo=database&logoColor=blue"           width="70" height="30"> &nbsp &nbsp
+    <br> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"    width="130" height="30"> &nbsp &nbsp &nbsp
+    <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"              width="85" height="30"> &nbsp &nbsp &nbsp
+    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-D3D3D3?style=flat&logo=apachekafka"                         width="135" height="30"> &nbsp
+    <br>
+    <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"                        width="65" height="30"> &nbsp &nbsp 
+    <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000"          width="95" height="30"> &nbsp &nbsp 
+    <img alt="Docker"     src="https://img.shields.io/badge/Docker-%2300BFFF.svg?style=flat&logo=docker&logoColor=white"            width="100" height="30"> &nbsp &nbsp 
+    <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16"         width="110" height="30"> &nbsp &nbsp 
+    <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white"              width="100" height="30"> &nbsp &nbsp 
+    <br>
+    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"            width="92" height="30"> &nbsp
+    <img alt="Algos"      src="https://img.shields.io/badge/Algorithms_and_data_structeres-red.svg?"                              width="260" height="30"> &nbsp
 </p>
 <ul><Big>
     <li> Go / Golang: твёрдое знание языка и понимание его философии, concurrency, оптимизации, GC, планировщик, аллокатор, стандартная библиотека, тестирование, линтеры </li>
