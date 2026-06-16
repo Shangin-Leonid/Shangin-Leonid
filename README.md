@@ -38,11 +38,11 @@
 </p>
 
 <body>
-<p> <h4> <Big>
+<p> <h3> <big>
     &#128231 &nbsp Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
     &#128242 &nbsp Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
     &#128230 &nbsp Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a>
-</Big> </h4> </p>
+</big> </h3> </p>
 </body>
 
 
@@ -198,36 +198,47 @@
     <li> "Путеводитель по базам данных", В.Комаров </li>
     <li> "Документация PostgreSQL" </li>
     <li> "Маленькая книга о Redis", К. Сегуин </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> Учебник "Pro Git" </li>
     <li> </li>
     <li> "Компьютерные сети" В. и Н. Олиферы </li>
     <li> "Компьютерные сети" Таненбаум </li>
     <li> "Современные операционные системы" Таненбаум </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> "Язык программирования Си", Б. Керниган, Д. Ритчи </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> "C++ Primer Plus", Stephen Prata, 6th edition (ENG version) </li>
     <li> "Философия C++. Введение в стандартный C++" (в 2 томах), Брюс Эккель </li>
     <li> "C++ Templates: The Complete Guide", David Vandevoorde, Nicolai Josuttis, Douglas Gregor </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> Курсы "Алгоритмы и структуры данных" от Яндекса </li>
     <li> "Совершенный код", Стив Макконнелл </li>
     <li> "Чистый код", Роберт Мартин </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> Курс по SQL на Stepik </li>
     <li> Курс программирования на C++ (записи лекций), Илья Мещерин, МФТИ </li>
     <li> C++ базовый курс (записи лекций), Константин Владимиров, МФТИ, 2021-2022 </li>
     <li> C++ магистерский курс (записи лекций), Константин Владимиров, МФТИ, 2022-2023 </li>
-    <li> </li>
+</Big></ul>
+
+<ul><Big>
     <li> прочее </li>
-    
 </Big></ul>
 
 
 
-&nbsp <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" width="120" height="50" /></a>
-<!-- <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://img.shields.io/static/v1?label=&message=LeetCode&style=flat&logo=leetcode&color=2e8b57" height="40" /></a> -->
+<!--- <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" width="120" height="50" /></a> -->
+<!--- <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://img.shields.io/static/v1?label=&message=LeetCode&style=flat&logo=leetcode&color=2e8b57" height="40" /></a> -->
 
 
 
