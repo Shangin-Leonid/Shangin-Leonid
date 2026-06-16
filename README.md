@@ -110,9 +110,9 @@
 
 <h3> <big> &#128076 &nbsp Работал с: </big> </h3>
 <p>
-    <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?"                                                    width="60" height="30"> &nbsp
+    <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?"                                                    width="55" height="30"> &nbsp
     <img alt="Scrum"      src="https://img.shields.io/badge/Scrum-orange.svg?"                                                   width="65" height="30"> &nbsp
-    <img alt="Jira"       src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"             width="85" height="30"> &nbsp
+    <img alt="Jira"       src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"             width="80" height="30"> &nbsp
     <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%230A0FFF.svg?style=flat&logo=confluence&logoColor=white" width="120" height="30"> &nbsp
 </p>
 
@@ -121,7 +121,7 @@
 <h3> <big> &#128295 &nbsp Знаком с: </big> </h3>
 <p>
     <img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=ECF051"                                                         width="100" height="30"> &nbsp
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"                                                                           width="85" height="30"> &nbsp
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"                                                                           width="80" height="30"> &nbsp
     <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" width="220" height="30"> &nbsp
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"                                                                            width="90" height="30"> &nbsp
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-696969.svg?logo=markdown&logoColor=white"                                                                   width="130" height="30"> &nbsp
