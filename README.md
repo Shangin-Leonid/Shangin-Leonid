@@ -32,9 +32,9 @@
 
 <h3> <big> &#128222 &nbsp Контакты: </big> </h3>
 <p>
-    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" width="190" height="30"></a>
-    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" width="180" height="30"></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" width="180" height="30"></a>
+    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" width="200" height="30"></a>
+    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" width="170" height="30"></a>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" width="170" height="30"></a>
 </p>
 
 <body>
