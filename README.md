@@ -5,7 +5,7 @@
          &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
          &nbsp &nbsp &#128286 &nbsp 23 года <br>
          &nbsp &nbsp :ru:     &nbsp г. Москва, Россия <br>
-         &nbsp &nbsp &#128084 &nbsp Ожидаемая должность: &nbsp Middle Golang разработчик
+         &nbsp &nbsp &#128084 &nbsp Middle Golang разработчик
     </big> <br> </h4>
 </big>
 </p> 
@@ -32,32 +32,58 @@
 
 <h2> <big> &#127891 &nbsp Образование: </big> </h2>
 <ul><Big>
-    <li> МГУ им. Ломоносова, механико-математический факультет, отделение математики, 2027 г. (2 курс) </li>
-    <li> Университетский лицей №1511 при НИЯУ МИФИ, 2021 г. </li> <br>
+    <li> Неоконченное высшее: МГУ им. Ломоносова, механико-математический факультет, отделение математики </li>
+    <li> Среднее общее: физико-математический лицей №1511 при НИЯУ МИФИ </li> <br>
 </Big></ul>
 
 
 
-<h2> <big> &#128069 &nbsp Языки: </big> </h2>
+<h2> <big> &#128069 &nbsp Языки и технологии: </big> </h2>
 <p>
-    <img alt="Golang"      src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB" height=33>
-    <img alt="CPP"      src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=0000cd" height=33>
-    <img alt="C"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=dc143c" height=33>
-    <img alt="Make"     src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16" height=33>
-    <img alt="SQL"      src="https://custom-icon-badges.demolab.com/badge/SQL-4169e1.svg?logo=database&logoColor=white" height=33>
-    <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" height=33>
-    <img alt="English"  src="https://img.shields.io/static/v1?label=&message=English+language&style=flat&logo=BookStack&color=ECF051" height=33>
+    <img alt="Golang"     src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB" height=33>
+    <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=0000cd" height=33>
+    <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=dc143c" height=33>
+    <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-4169e1.svg?logo=database&logoColor=white" height=33>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height=33>
+    <img alt="Redis"      src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" height=33>
+    <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16" height=33>
 </p>
 <ul><Big>
-    <li> С++ : твёрдое знание основ и понимание философии языка, STL, OOP (design patterns), meta-programming </li>
-    <li> C : твёрдое знание основ языка, некоторых стандартных библиотек </li>
-    <li> Make : написание makefile (make-scripts) для автоматической сборки и unit-тестирования </li>
-    <li> Git : ветвление, версионирование, конфликты и проч. </li>
-    <li> SQL: написание стандартных SQL-запросов, понимание основ работы БД </li>
-    <li> Компилятор GCC : использование флагов компиляции и прочего функционала </li>
+    <li> Go / Golang: твёрдое знание языка и понимание его философии, concurrency, оптимизации, GC, планировщик, аллокатор, стандартная библиотека, тестирование </li>
+    <li> Понимание основ и опыт построения микросервисной архитектуры и сетевого взаимодействия: клиент-сервер, HTTP(S), REST API, gRPC (protobuf) </li>
+    <li> Базы данных: понимание общих принципов работы, применения, оптимизации, масштабирования, отказоустойчивости </li>
+    <li> SQL: основной синтаксис, сложные запросы, оптимизация запросов </li>
+    <li> Redis: опыт использования в учебных проектах </li>
+    <li> Kafka: опыт использования в учебных проектах </li>
     <li> Алгоритмы и структуры данных </li>
-    <li> Английский язык (на уровне чтения и написания технической документации) </li> <br>
+    <li> Git: версионирование, ветвление, конфликты, pull-request, история и проч. </li>
+    <li> Основы computer science: компьютерные сети (OSI, TCP/IP, HTTP), операционные системы, архитектура компьютера (память, процессор), компиляция и исполнение программ </li>
+    <li> Docker: контейнеризация несложных проектов </li>
+    <li> С++: глубокое знание языка, OOP patterns, опыт работы с STL, boost, gtest, google benchmark </li>
+    <li> C: опыт создания небольших проектов с использованием стандартной библиотеки и gnuplotlib </li>
+    <li> Make и CMake: автоматизация сборки и тестирования проектов </li>
+    <li> Английский язык: на уровне чтения и написания технической документации </li> <br>
 </Big></ul> 
+
+
+
+<h2> <big> &#128069 &nbsp Работал с: </big> </h2>
+<p>
+    <img alt="Agile"      src="https://img.shields.io/badge/Agile-red.svg?style=flat&logo=jira&logoColor=white" height=33>
+    <img alt="Scrum"      src="https://img.shields.io/badge/Agile-red.svg?style=flat&logo=jira&logoColor=white" height=33>
+    <img alt="Jira"       src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" height=33>
+    <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" height=33>
+</p>
+
+
+
+
+<h2> <big> &#128069 &nbsp Знаком с: </big> </h2>
+<p>
+    <img alt="Python"              src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" height=33>
+    <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" height=33>
+    <img alt="Bash"                src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" height=33>
+</p>
 
 
 
