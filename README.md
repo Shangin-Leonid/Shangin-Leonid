@@ -1,18 +1,18 @@
 <p>
-<h2> <Big> &nbsp &nbsp Основная информация: </Big> </h2>
+<h3> <Big> &nbsp Основная информация: </Big> </h3>
 <big>
     <h4> <big> 
-         &nbsp &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
-         &nbsp &nbsp &#128286 &nbsp 23 года <br>
-         &nbsp &nbsp :ru:     &nbsp г. Москва, Россия <br>
-         &nbsp &nbsp &#128084 &nbsp Middle Golang разработчик
+         &nbsp :raising_hand_man: &nbsp Шангин Леонид <br>
+         &nbsp &#128286 &nbsp 23 года <br>
+         &nbsp :ru:     &nbsp г. Москва, Россия <br>
+         &nbsp &#128084 &nbsp Middle Golang разработчик
     </big> <br> </h4>
 </big>
 </p> 
 
 
 
-<h2> <big> &#128222 &nbsp Контакты: </big> </h2>
+<h3> <big> &#128222 &nbsp Контакты: </big> </h3>
 <p>
     <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" height=33></a>
     <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" height=33></a>
@@ -30,7 +30,7 @@
 
 
 
-<h2> <big> &#127891 &nbsp Образование: </big> </h2>
+<h3> <big> &#127891 &nbsp Образование: </big> </h3>
 <ul><Big>
     <li> Неоконченное высшее: МГУ им. Ломоносова, механико-математический факультет, отделение математики </li>
     <li> Среднее общее: физико-математический лицей №1511 при НИЯУ МИФИ </li> <br>
@@ -38,15 +38,20 @@
 
 
 
-<h2> <big> &#128069 &nbsp Языки и технологии: </big> </h2>
+<h3> <big> &#128300 &nbsp &#129514 &nbsp &#128421 &nbsp Языки и технологии: </big> </h3>
 <p>
     <img alt="Golang"     src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB" height=33>
     <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=0000cd" height=33>
     <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&color=dc143c" height=33>
     <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-4169e1.svg?logo=database&logoColor=white" height=33>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height=33>
-    <img alt="Redis"      src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" height=33>
+    <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" height=33>
+    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" height=33>
+    <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height=33>
+    <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000" height=33>
     <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16" height=33>
+    <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white" height=33>
+    <img alt="Linux" src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F" height=33>
 </p>
 <ul><Big>
     <li> Go / Golang: твёрдое знание языка и понимание его философии, concurrency, оптимизации, GC, планировщик, аллокатор, стандартная библиотека, тестирование </li>
@@ -62,15 +67,15 @@
     <li> С++: глубокое знание языка, OOP patterns, опыт работы с STL, boost, gtest, google benchmark </li>
     <li> C: опыт создания небольших проектов с использованием стандартной библиотеки и gnuplotlib </li>
     <li> Make и CMake: автоматизация сборки и тестирования проектов </li>
-    <li> Английский язык: на уровне чтения и написания технической документации </li> <br>
+    <li> Английский язык: на уровне чтения и написания технической документации </li>
 </Big></ul> 
 
 
 
-<h2> <big> &#128069 &nbsp Работал с: </big> </h2>
+<h3> <big> &#128076 &nbsp Работал с: </big> </h3>
 <p>
-    <img alt="Agile"      src="https://img.shields.io/badge/Agile-red.svg?style=flat&logo=jira&logoColor=white" height=33>
-    <img alt="Scrum"      src="https://img.shields.io/badge/Agile-red.svg?style=flat&logo=jira&logoColor=white" height=33>
+    <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?" height=33>
+    <img alt="Scrum"      src="https://img.shields.io/badge/Agile-orange.svg?" height=33>
     <img alt="Jira"       src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" height=33>
     <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" height=33>
 </p>
@@ -78,16 +83,18 @@
 
 
 
-<h2> <big> &#128069 &nbsp Знаком с: </big> </h2>
+<h3> <big> &#128295 &nbsp Использовал: </big> </h3>
 <p>
-    <img alt="Python"              src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" height=33>
+    <img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=ECF051" height=33>
     <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" height=33>
-    <img alt="Bash"                src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" height=33>
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height=33>
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" height=33>
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height=33>
 </p>
 
 
 
-<h2> <big> &#128450 &nbsp Опыт и проекты: </big> </h2>
+<h3> <big> &#128450 &nbsp Опыт и проекты: </big> </h3>
 <ul><Big>
     <li> Около 2 лет программирования </li>
     <li> Учебные проекты на языках C++ и C </li>
@@ -104,47 +111,24 @@
 
 <p> <small> <br> </small> </p>
 
-<h2> <big> &#9881 &nbsp Технологии: </big> </h2>
-<p>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height=33>
-    <img alt="Github" src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000" height=33>
-    <img alt="GCC" src="https://img.shields.io/static/v1?label=&message=GCC&style=flat&logo=GNU&color=2B822F" height=33>
-    <img alt="PostgreSQL" src="https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat&logo=PostgreSQL&color=fffacd" height=33>
-</p>
-<ul> <Big>
-    <li> Система версионирования git </li>
-    <li> Тестирование программ (integration-, unit-testing) </li>
-    <li> Компилятор GCC и его функионал </li>
-    <li> Сопровождение кода документацией </li>
-    <li> PostgreSQL </li> <br>
-</Big> </ul>
 
 
-
-<h2> <big> &#128421 &nbsp Инструменты разработки: </big> </h2>
+<!--- <h3> <big> &#128421 &nbsp Инструменты разработки: </big> </h3>
 <p>
     <img alt="Linux" src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F" height=33>
     <img alt="Windows" src="https://img.shields.io/static/v1?label=&message=Windows&style=flat&logo=windows&color=4169e1" height=33>
     <img alt="VIM" src="https://img.shields.io/static/v1?label=&message=VIM&style=flat&logo=vim&color=27A923" height=33>
     <img alt="VSCode" src="https://img.shields.io/static/v1?label=&message=Visual+Studio+Code&style=flat&logo=visualstudiocode&color=4169e1" height=33>
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height=33> <br> <br>
-</p>
+</p> -->
 
 
-
-<h2> <big> &#128188 &nbsp Доводилось работать с: </big> </h2>
-<p>
-    <img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=ECF051" height=33>
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height=33>
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" height=33>
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height=33>
-</p>
 
 <h3> <big> &#128681 &nbsp Готов осваивать новые для себя технологии. </big> <br> <br> </h3>
 
 
 
-<h2> <big> &#128218 &nbsp Учебники, курсы и материалы: </big> </h2>
+<h3> <big> &#128218 &nbsp Учебники, курсы и материалы: </big> </h3>
 <ul><Big>
     <li> "Язык программирования Си", Б. Керниган, Д. Ритчи </li>
     <li> "C++ Primer Plus", Stephen Prata, 6th edition (ENG version) </li>
@@ -165,7 +149,7 @@
 
 
 
-<h2> <big> &#128270 &nbsp Резюме размещены здесь: </big> </h2>
+<h3> <big> &#128270 &nbsp Мои резюме: </big> </h3>
 <p>
     <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a>
     <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
@@ -179,16 +163,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Shangin-Leonid&color=informational&style=flat&label=PROFILE+VIEWS) -->
 
 
-
-<h2> <big> &#10024 &nbsp Увлечения: </big> </h2>
-<ul><Big>
-    &#127956 &nbsp Альпинизм <br>
-    &#127952 &nbsp Волейбол <br>
-    &#128214 &nbsp Русская классическая литература, поэзия <br>
-    <!-- &#127966 &nbsp Живопись <br> -->
-    &#127931 &nbsp Музыка <br>
-</Big></ul>
-<br><br>
 
 <!-- <div class="wrap">
   <img  alt="Avatar" src="./avatar.jpg" width="512" height="384">
