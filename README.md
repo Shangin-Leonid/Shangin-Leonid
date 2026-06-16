@@ -14,9 +14,9 @@
 
 <h3> <big> &#128222 &nbsp Контакты: </big> </h3>
 <p>
-    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" height=33></a>
-    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" height=33></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a>
+    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" height="50"/></a>
+    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" height="50"/></a>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height="50"/></a>
 </p>
 
 <body>
@@ -143,11 +143,7 @@
 
 
 
-<br>
-
-
-
-<a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" /></a>
+<a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="35" /></a>
 <!-- <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://img.shields.io/static/v1?label=&message=LeetCode&style=flat&logo=leetcode&color=2e8b57" height="40" /></a> -->
 
 
