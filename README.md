@@ -32,9 +32,9 @@
 
 <h3> <big> &#128222 &nbsp Контакты: </big> </h3>
 <p>
-    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white" width="200" height="30"></a>
-    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white" width="170" height="30"></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" width="170" height="30"></a>
+    <a><img alt="email" src="https://img.shields.io/badge/-leobakeo@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white"                                               width="180" height="27"></a>
+    <a href="https://t.me/leonid_shangin"><img alt="TG" src="https://img.shields.io/static/v1?label=&message=@leonid_shangin&style=flat&logo=telegram&color=white"        width="153" height="27"></a>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" width="153" height="27"></a>
 </p>
 
 <body>
@@ -66,24 +66,24 @@
 <!-- &#128300 &nbsp &#129514 &nbsp &#128421 &nbsp -->
 <h3> <big> &#129514 &nbsp Языки, технологии  и ключевые навыки: </big> </h3>
 <p>
-    <img alt="Golang"     src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB"             width="130" height="30"> &nbsp &nbsp
-    <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=2E8B57"          width="110" height="30"> &nbsp &nbsp
-    <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&logoColor=2F4F4F&color=1E90FF" width="110" height="30"> &nbsp &nbsp 
-    <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-ECF051.svg?logo=database&logoColor=blue"                 width="70" height="30"> &nbsp &nbsp
+    <img alt="Golang"     src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=Go&logoSize=auto&logoColor=E7FEFB"             width="117" height="27"> &nbsp &nbsp
+    <img alt="CPP"        src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=cplusplus&color=2E8B57"          width="99" height="27"> &nbsp &nbsp
+    <img alt="C"          src="https://img.shields.io/static/v1?label=&message=Language&style=flat&logo=C&logoColor=2F4F4F&color=1E90FF" width="99" height="27"> &nbsp &nbsp 
+    <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-ECF051.svg?logo=database&logoColor=blue"                 width="63" height="27"> &nbsp &nbsp
     <br> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FFD700.svg?style=flat&logo=postgresql&logoColor=0000FF"  width="130" height="30"> &nbsp &nbsp
-    <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DC143C.svg?style=flat&logo=redis&logoColor=white"             width="85" height="30"> &nbsp &nbsp
-    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-D3D3D3?style=flat&logo=apachekafka&logoColor=black"     width="135" height="30"> &nbsp
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23FFD700.svg?style=flat&logo=postgresql&logoColor=0000FF"  width="117" height="27"> &nbsp &nbsp
+    <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DC143C.svg?style=flat&logo=redis&logoColor=white"             width="77" height="27"> &nbsp &nbsp
+    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-D3D3D3?style=flat&logo=apachekafka&logoColor=black"     width="135" height="27"> &nbsp
     <br>
-    <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"                 width="65" height="30"> &nbsp 
-    <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000"   width="95" height="30"> &nbsp 
-    <img alt="Docker"     src="https://img.shields.io/badge/Docker-%2300BFFF.svg?style=flat&logo=docker&logoColor=white"     width="100" height="30"> &nbsp
-    <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16"  width="110" height="30"> &nbsp
-    <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23228B22.svg?style=flat&logo=cmake&logoColor=white"       width="100" height="30"> &nbsp 
+    <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"                 width="59" height="27"> &nbsp 
+    <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000"   width="86" height="27"> &nbsp 
+    <img alt="Docker"     src="https://img.shields.io/badge/Docker-%2300BFFF.svg?style=flat&logo=docker&logoColor=white"     width="90" height="27"> &nbsp
+    <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16"  width="99" height="27"> &nbsp
+    <img alt="CMake"      src="https://img.shields.io/badge/CMake-%23228B22.svg?style=flat&logo=cmake&logoColor=white"       width="90" height="27"> &nbsp 
     <br> &nbsp &nbsp
-    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"  width="85" height="30"> &nbsp &nbsp
-    <img alt="Algos"      src="https://img.shields.io/badge/Algorithms_and_data_structeres-DB7093.svg?"                   width="260" height="30"> &nbsp &nbsp
-    <img alt="CS"      src="https://img.shields.io/badge/Computer_science-F4A460.svg?"                                    width="150" height="30"> &nbsp
+    <img alt="Linux"      src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F"  width="77" height="27"> &nbsp &nbsp
+    <img alt="Algos"      src="https://img.shields.io/badge/Algorithms_and_data_structeres-DB7093.svg?"                   width="234" height="27"> &nbsp &nbsp
+    <img alt="CS"      src="https://img.shields.io/badge/Computer_science-F4A460.svg?"                                    width="135" height="27"> &nbsp
 </p>
 <ul><Big>
     <li> Go / Golang: твёрдое знание языка и понимание его философии, concurrency и паттерны, оптимизации, runtime (GC, планировщик, аллокатор), стандартная библиотека, тестирование (unit, integration, mock), линтеры </li>
@@ -110,21 +110,21 @@
 
 <h3> <big> &#128076 &nbsp Работал с: </big> </h3>
 <p>
-    <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?"                                                    width="55" height="30"> &nbsp
-    <img alt="Scrum"      src="https://img.shields.io/badge/Scrum-orange.svg?"                                                   width="65" height="30"> &nbsp
-    <img alt="Jira"       src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"             width="80" height="30"> &nbsp
-    <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%230A0FFF.svg?style=flat&logo=confluence&logoColor=white" width="120" height="30"> &nbsp
+    <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?"                                                    width="50" height="27"> &nbsp
+    <img alt="Scrum"      src="https://img.shields.io/badge/Scrum-orange.svg?"                                                   width="59" height="27"> &nbsp
+    <img alt="Jira"       src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"             width="72" height="27"> &nbsp
+    <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%230A0FFF.svg?style=flat&logo=confluence&logoColor=white" width="108" height="27"> &nbsp
 </p>
 
 
 
 <h3> <big> &#128295 &nbsp Знаком с: </big> </h3>
 <p>
-    <img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=ECF051"                                                         width="100" height="30"> &nbsp
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"                                                                           width="80" height="30"> &nbsp
-    <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" width="220" height="30"> &nbsp
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"                                                                            width="90" height="30"> &nbsp
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-696969.svg?logo=markdown&logoColor=white"                                                                   width="130" height="30"> &nbsp
+    <img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&style=flat&logo=python&color=ECF051"                                                         width="90" height="27"> &nbsp
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"                                                                           width="72" height="27"> &nbsp
+    <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" width="198" height="27"> &nbsp
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"                                                                            width="81" height="27"> &nbsp
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-696969.svg?logo=markdown&logoColor=white"                                                                   width="117" height="27"> &nbsp
 </p>
 
 
@@ -174,9 +174,9 @@
 
 <h3> <big> &#128270 &nbsp Мои резюме: </big> </h3>
 <p>
-    <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" width="60" height="30"></a>
-    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational"             width="40" height="30"></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black"                 width="170" height="30"></a> <br>
+    <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" width="54" height="27"></a>
+    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational"             width="36" height="27"></a>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black"                 width="153" height="27"></a> <br>
     <!-- <a href="https://career.habr.com/shangin_leonid"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a> -->
     <!-- <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a> -->
 </p>
