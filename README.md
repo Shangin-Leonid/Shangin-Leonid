@@ -123,7 +123,7 @@
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"                                                                           width="85" height="30"> &nbsp
     <img alt="Wolfram Mathematica" src="https://img.shields.io/static/v1?style=flat&message=Wolfram+Mathematica&color=DD1100&logo=Wolfram+Mathematica&logoColor=FFFFFF&label=" width="220" height="30"> &nbsp
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"                                                                            width="90" height="30"> &nbsp
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"                                                                   width="130" height="30"> &nbsp
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-696969.svg?logo=markdown&logoColor=white"                                                                   width="130" height="30"> &nbsp
 </p>
 
 
