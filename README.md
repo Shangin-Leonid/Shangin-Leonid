@@ -21,19 +21,22 @@
 
 <body>
 <p> <h4> <big>
-    Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
-    <!-- Телефон:  &nbsp  <br> -->
-    Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
-    Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a>
+    &#128231 &nbsp Email:    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp leobakeo@yandex.ru <br>
+    &#128242 &nbsp Telegram: &nbsp <a href="https://t.me/leonid_shangin">@leonid_shangin</a> <br>
+    &#128230 &nbsp Github:   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="https://github.com/Shangin-Leonid">Shangin-Leonid</a>
 </big> </h4> </p>
 </body>
+
+
+
+<br>
 
 
 
 <h3> <big> &#127891 &nbsp Образование: </big> </h3>
 <ul><Big>
     <li> Неоконченное высшее: МГУ им. Ломоносова, механико-математический факультет, отделение математики </li>
-    <li> Среднее общее: физико-математический лицей №1511 при НИЯУ МИФИ </li> <br>
+    <li> Среднее общее: физико-математический лицей №1511 при НИЯУ МИФИ </li>
 </Big></ul>
 
 
@@ -46,7 +49,7 @@
     <img alt="SQL"        src="https://custom-icon-badges.demolab.com/badge/SQL-4169e1.svg?logo=database&logoColor=white" height=33>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height=33>
     <img alt="Redis"      src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" height=33>
-    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" height=33>
+    <img alt="Kafka"      src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" height=33>
     <img alt="git"        src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height=33>
     <img alt="Github"     src="https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=000000" height=33>
     <img alt="Make"       src="https://img.shields.io/static/v1?label=&message=Makefile&style=flat&logo=CMake&color=FE7A16" height=33>
@@ -75,9 +78,9 @@
 <h3> <big> &#128076 &nbsp Работал с: </big> </h3>
 <p>
     <img alt="Agile"      src="https://img.shields.io/badge/Agile-green.svg?" height=33>
-    <img alt="Scrum"      src="https://img.shields.io/badge/Agile-orange.svg?" height=33>
-    <img alt="Jira"       src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" height=33>
-    <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" height=33>
+    <img alt="Scrum"      src="https://img.shields.io/badge/Scrum-orange.svg?" height=33>
+    <img alt="Jira"       src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" height=33>
+    <img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" height=33>
 </p>
 
 
@@ -103,13 +106,14 @@
 </Big></ul>
 <br>
 
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=acrogen)](https://github.com/Shangin-Leonid/acrogen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=concurrency_patterns)](https://github.com/Shangin-Leonid/concurrency_patterns)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=distance_between_polygons)](https://github.com/Shangin-Leonid/distance_between_polygons)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=custom_container_lib)](https://github.com/Shangin-Leonid/custom_container_lib)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=cyclic_list)](https://github.com/Shangin-Leonid/cyclic_list)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=computer_geometry)](https://github.com/Shangin-Leonid/computer_geometry)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=MyOffice_code_review_task)](https://github.com/Shangin-Leonid/MyOffice_code_review_task)
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shangin-Leonid&repo=custom_container_lib)](https://github.com/Shangin-Leonid/custom_container_lib) -->
-
-<p> <small> <br> </small> </p>
 
 
 
@@ -128,35 +132,63 @@
 
 
 
-<h3> <big> &#128218 &nbsp Учебники, курсы и материалы: </big> </h3>
-<ul><Big>
-    <li> "Язык программирования Си", Б. Керниган, Д. Ритчи </li>
-    <li> "C++ Primer Plus", Stephen Prata, 6th edition (ENG version) </li>
-    <li> "Философия C++. Введение в стандартный C++" (в 2 томах), Брюс Эккель </li>
-    <li> "C++ Templates: The Complete Guide", David Vandevoorde, Nicolai Josuttis, Douglas Gregor </li>
-    <li> "Совершенный код", Стив Макконнелл </li>
-    <li> "Основы языка SQL", Моргунов </li>
-    <li> cppreference.com </li>
-    <li> Курс программирования на C++ (записи лекций), Илья Мещерин, МФТИ </li>
-    <li> C++ базовый курс (записи лекций), Константин Владимиров, МФТИ, 2021-2022 </li>
-    <li> C++ магистерский курс (записи лекций), Константин Владимиров, МФТИ, 2022-2023 </li>
-    <li> прочее </li>
-    
-</Big></ul>
+<h3> <big> &#128270 &nbsp Мои резюме: </big> </h3>
+<p>
+    <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
+    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a>
+    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a> <br>
+    <!-- <a href="https://career.habr.com/shangin_leonid"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a> -->
+    <!-- <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a> -->
+</p>
+
+
+
+<br>
+
+
 
 <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" /></a>
 <!-- <a href="https://leetcode.com/Shangin_Leonid/"> <img src="https://img.shields.io/static/v1?label=&message=LeetCode&style=flat&logo=leetcode&color=2e8b57" height="40" /></a> -->
 
 
 
-<h3> <big> &#128270 &nbsp Мои резюме: </big> </h3>
-<p>
-    <a href="https://github.com/Shangin-Leonid/Shangin-Leonid"><img alt="CV" src="https://img.shields.io/static/v1?label=&message=CV&style=flat&logo=pdf&color=informational" height=33></a>
-    <a href="https://hh.ru/resume/ae1d0953ff0c0cff7a0039ed1f5a4d3075566d"><img alt="HH.ru" src="https://img.shields.io/static/v1?label=&message=hh.ru&style=flat&logo=EMPTY&color=ff0000" height=33></a>
-    <a href="https://career.habr.com/shangin_leonid"><img alt="Habr Career" src="https://img.shields.io/static/v1?style=flat&message=Habr Career&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" height=33></a>
-    <a href="https://github.com/Shangin-Leonid"><img alt="Github" src="https://img.shields.io/static/v1?label=&message=Shangin-Leonid&style=flat&logo=github&color=black" height=33></a> <br>
-    <!-- <a href="ССЫЛКА"><img alt="SuperJob.ru" src="https://img.shields.io/static/v1?label=&message=SuperJob.ru&style=flat&logo=EMPTY&color=228b22" height=33></a> -->
-</p>
+<h3> <big> &#128218 &nbsp Учебники, курсы и материалы: </big> </h3>
+<ul><Big>
+    <li> "Learning Go" by Jon Bodner </li>
+    <li> "100 ошибок Go и как их избежать" </li>
+    <li> "Concurrency in Go: Tools and Techniques for Developers" by Katherine Cox-Buday </li>
+    <li> "Грокаем конкурентность" </li>
+    <li> </li>
+    <li> "Основы языка SQL", Моргунов </li>
+    <li> "Антипаттерны SQL" </li>
+    <li> "Путеводитель по базам данных", В.Комаров </li>
+    <li> "Документация PostgreSQL" </li>
+    <li> "Маленькая книга о Redis", К. Сегуин </li>
+    <li> </li>
+    <li> Учебник "Pro Git" </li>
+    <li> </li>
+    <li> "Компьютерные сети" В. и Н. Олиферы </li>
+    <li> "Компьютерные сети" Таненбаум </li>
+    <li> "Современные операционные системы" Таненбаум </li>
+    <li> </li>
+    <li> "Язык программирования Си", Б. Керниган, Д. Ритчи </li>
+    <li> </li>
+    <li> "C++ Primer Plus", Stephen Prata, 6th edition (ENG version) </li>
+    <li> "Философия C++. Введение в стандартный C++" (в 2 томах), Брюс Эккель </li>
+    <li> "C++ Templates: The Complete Guide", David Vandevoorde, Nicolai Josuttis, Douglas Gregor </li>
+    <li> </li>
+    <li> Курсы "Алгоритмы и структуры данных" от Яндекса </li>
+    <li> "Совершенный код", Стив Макконнелл </li>
+    <li> "Чистый код", Роберт Мартин </li>
+    <li> </li>
+    <li> Курс по SQL на Stepik </li>
+    <li> Курс программирования на C++ (записи лекций), Илья Мещерин, МФТИ </li>
+    <li> C++ базовый курс (записи лекций), Константин Владимиров, МФТИ, 2021-2022 </li>
+    <li> C++ магистерский курс (записи лекций), Константин Владимиров, МФТИ, 2022-2023 </li>
+    <li> </li>
+    <li> прочее </li>
+    
+</Big></ul>
 
 
 
