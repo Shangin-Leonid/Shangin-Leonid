@@ -157,6 +157,14 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shangin-Leonid&layout=compact&hide=Mathematica)
+
+
+
+#
+
+
+
 <!--- <h3> <big> &#128421 &nbsp Инструменты разработки: </big> </h3>
 <p>
     <img alt="Linux" src="https://img.shields.io/static/v1?label=&message=Linux&style=flat&logo=linux&color=2B822F" height=33>
